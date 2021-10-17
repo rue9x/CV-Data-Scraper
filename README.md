@@ -8,6 +8,8 @@ Installation:
 - Create c:\code\
 - py crawler.py
 - Navigate to c:\code\ and enjoy your giant pile of text files.
+- py cvparse.py
+- Enjoy your JSON file containing enemy names, levels, HP, ATK, DEF, and XP values.
 
 Why?
 - I couldn't find anyone on the web who had STR/DEF data for enemies in SOTN, and I needed it for a project.
