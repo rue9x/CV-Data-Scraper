@@ -6,7 +6,7 @@ Installation:
 - pip install html2text
 - Download crawl.py
 - Create c:\code\
-- py crawl.py
+- py crawler.py
 - Navigate to c:\code\ and enjoy your giant pile of text files.
 
 Why?
